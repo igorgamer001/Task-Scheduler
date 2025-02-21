@@ -15,9 +15,6 @@ const tasks = [
     'Generate Analytics Report'
 ];
 
-
-
-
 // Function to log task execution
 function logTaskExecution(task, status) {
     const timestamp = new Date().toISOString();
