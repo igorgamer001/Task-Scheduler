@@ -6,8 +6,6 @@ const path = require('path');
 // Log file path
 const logFile = path.join(__dirname, 'task_log.txt');
 
-
-
 // Simulated tasks
 const tasks = [
     'Database Backup',
